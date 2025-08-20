@@ -16,3 +16,4 @@
 -Calculation of KPIs: Aggregate data for average lengths and total counts.
 -User Experience Tuning: Enable interactive exploration with filters and slicers.
 ## Dashboard
+<img width="935" height="472" alt="Screenshot 2025-08-20 172417" src="https://github.com/user-attachments/assets/55a76627-ea2c-4a3b-8e84-bbc1c382509b" />
